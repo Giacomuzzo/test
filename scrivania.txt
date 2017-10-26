@@ -1,2 +1,5 @@
 1. Inizio modellazione ripiano
 2. Inizio gamba
+3. Gamba destra
+4. Gamba sinistra
+5. Cassetto inferiore
